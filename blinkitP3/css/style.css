@@ -1,0 +1,66 @@
+.row{
+
+    height: 100px;
+    width: auto;
+    background-color: green;
+}
+.h1{
+    color:black;
+    background-color: rgb(236, 213, 44);
+    display: flex;
+    height: 60px;
+    width: 100px;
+    margin: 0px;
+    font-weight: 700;
+    font-size: 28px;
+    
+}
+.h2{
+    color: green;
+    background-color: rgb(236, 213, 44);
+    display: flex;
+    height:60px;
+    width: 100px;
+    font-weight: 700;
+}
+.navbar{
+    height: 50px;
+    width: auto;
+    margin-left: 800px;
+
+
+}
+.h3{
+    margin-top: 33px;
+    font-weight: 700;
+    font-style:normal;
+    font-size: 15px;
+    font-family: poppins;
+    margin-left: 20px;
+}
+.h4{
+    margin-left:20px;
+
+}
+.useApp{
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 8%;
+    font-size: 16px;
+    margin-left: 400px;
+    text-align: center;
+
+}
+.row2{
+
+}
+.bigOne{
+    height: 300px;
+    width: auto;
+}
+.image1{
+    height: 300px;
+    width: 300px;
+}
